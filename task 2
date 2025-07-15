@@ -1,0 +1,8 @@
+#personalised greetings
+
+a= print('enter the first name:')
+b=print('enter the last name:')
+a=str(a)
+b=str(b)
+fullname=a+" "+b
+print('hello,',fullname,'welcome to the python program')
