@@ -1,8 +1,0 @@
-#personalised greetings
-
-a= input('enter your first name:')
-b= input('enter your last name:')
-a=str(a)
-b=str(b)
-fullname=a+ " "+b
-print('hello,',fullname,'welcome to python program')
